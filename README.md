@@ -1,2 +1,2 @@
-# edx_harvardx_capstone_project_cyo
-edx-hx-ds-cyo-project is for Edx HarvardX DS programme. 
+
+CYO project is for the capstone of Edx HarvardX DS programme. 
