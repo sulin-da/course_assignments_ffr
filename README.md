@@ -1,2 +1,3 @@
+Applied DS with Python 
 
-CYO project is for the capstone of Edx HarvardX DS programme. 
+Course assignment codes for future reference
